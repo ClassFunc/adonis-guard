@@ -19,7 +19,7 @@
     "@adonisjs/fold": "^4.0.9",
     "@slynova/eslint-config": "^1.0.5",
     "cz-conventional-changelog": "^2.1.0",
-    "edge.js": "^1.1.4",
+    "edge.js": "^5.3.2",
     "eslint": "^5.5.0",
     "japa": "^1.0.6"
   },
